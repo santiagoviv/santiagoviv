@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @santiagoviv
-- 👀 I’m interested in be a data scientist 
-- 🌱 I’m currently learning python using git
-- 📫 How to reach me sansa.n@hotmail.com
+- 👋 Hey I'm Santiago! 
+Welcome to my Github wall I hope to see something interesting here!
+
+- I'm Economist currently studying by my own to be a data scientist
+- Tableau/Python/Git 
 
 <!---
 santiagoviv/santiagoviv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
