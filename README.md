@@ -1,4 +1,4 @@
-- 👋 Hey I'm Santiago! 
+-Hey I'm Santiago! 
 Welcome to my Github wall I hope to see something interesting here!
 
 - I'm Economist currently studying by my own to be a data scientist
